@@ -1,2 +1,2 @@
-# PUBG-Fan-Site
-PUBG Fan Site
+# PUBG-Site-FAN
+PUBG Site FAN
